@@ -1,10 +1,11 @@
-package com.pharari.thiago.poketinder
+package com.pharari.thiago.poketinder.ui.adapter
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
+import com.pharari.thiago.poketinder.data.model.PokemonResponse
 import com.pharari.thiago.poketinder.databinding.ItemPokemonBinding
 
 class PokemonAdapter(

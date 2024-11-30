@@ -1,5 +1,6 @@
-package com.pharari.thiago.poketinder
+package com.pharari.thiago.poketinder.data.network
 
+import com.pharari.thiago.poketinder.data.model.PokemonListResponse
 import retrofit2.Response
 import retrofit2.http.GET
 

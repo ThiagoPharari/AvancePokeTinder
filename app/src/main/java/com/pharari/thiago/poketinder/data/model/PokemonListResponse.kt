@@ -1,4 +1,4 @@
-package com.pharari.thiago.poketinder
+package com.pharari.thiago.poketinder.data.model
 
 data class PokemonListResponse(
     val count: Int,

@@ -1,6 +1,6 @@
-package com.pharari.thiago.poketinder
+package com.pharari.thiago.poketinder.ui.viewmodel
 
-import SharedPreferencesRepository
+import com.pharari.thiago.poketinder.data.database.SharedPreferencesRepository
 import android.content.Context
 import android.util.Patterns
 import androidx.lifecycle.MutableLiveData

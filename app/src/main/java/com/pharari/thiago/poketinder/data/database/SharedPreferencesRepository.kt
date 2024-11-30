@@ -1,3 +1,5 @@
+package com.pharari.thiago.poketinder.data.database
+
 import android.content.Context
 import android.content.SharedPreferences
 

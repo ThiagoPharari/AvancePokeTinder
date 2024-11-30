@@ -1,4 +1,4 @@
-package com.pharari.thiago.poketinder
+package com.pharari.thiago.poketinder.ui.view
 
 import android.content.Intent
 import android.os.Bundle

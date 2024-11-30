@@ -1,7 +1,7 @@
-package com.pharari.thiago.poketinder
+package com.pharari.thiago.poketinder.ui.view
 
 
-import LoginViewModel
+import com.pharari.thiago.poketinder.ui.viewmodel.LoginViewModel
 import android.content.Intent
 import android.os.Bundle
 import android.widget.Toast
